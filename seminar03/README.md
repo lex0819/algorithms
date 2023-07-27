@@ -8,7 +8,7 @@
 
 ### Добавлена функция reverse() в класс LinkedList
 
-См. в конце файла [LinkedList.java](./ru.geekbrains.lesson4/LinkedList)
+См. в конце файла [LinkedList.java](./src/main/java/ru/geekbrains/lesson4/LinkedList.java)
 
 
 ### Добавлен класс Homework с вызовом метода reverse()
@@ -17,4 +17,4 @@
 
 и закомментирован весь функционал с семинара.
 
-См. в конце файла [Homework.java](./ru.geekbrains.lesson4/Homework)
+См. в конце файла [Homework.java](./src/main/java/ru/geekbrains/lesson4/Homework.java)
